@@ -1,4 +1,5 @@
-## Hi there 👋
+### Hi there, I'm Abdulsalam!
+
 
 <!--
 **CodeBriary/CodeBriary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Aspiring Software Engineering Intern with hands on Experience<br>
+Studying Computer Science at Georgia State University<br>
+Currently expanding my knowledge in AI while applying said knowledge to engineering reliable Softwares
